@@ -1,4 +1,4 @@
-WEATHER WORLD
+PROYECTO CLIMA
 -------------
 
 Click [HERE](http://craigprotzel.github.io/weather-world) to view a working demo.
